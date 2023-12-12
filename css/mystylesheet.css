@@ -1,0 +1,10 @@
+body::before{
+    display: block;
+    content: '';
+    height: 60px;
+}
+
+#flip-scale-2-hor-top {
+	-webkit-animation: flip-scale-2-hor-top 0.5s linear both;
+	        animation: flip-scale-2-hor-top 0.5s linear both;
+}
